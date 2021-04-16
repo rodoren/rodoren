@@ -40,8 +40,6 @@
 
 <img align="left" alt="rodoren GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rodoren&show_icons=true&hide_border=true&theme=onedark&hide=stars,prs,issues" />
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodoren&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />

@@ -1,19 +1,19 @@
 ### Hello World!, I'm Rodolfo R.R. 👋
 
 -  I'm from Mexico City and I interesting to develop Machine Learning Models and Artificial Intelligence using open source programming tools
-- :video_game: I love to play guitar videogames and listen to music all the time :headphones:
+- :video_game: I love to play videogames and listen to music all the time :headphones:
 - I'm currently learning everything about programming languages and data science :smiley: 
 
 ### My Social Networks:
 
-[<img align="left" alt="Rodo Ren | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube](https://www.youtube.com)
-[<img align="left" alt="SoyUn_Reno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://twitter.com)
-[<img align="left" alt="rodolfo-rendón-rosas-7b34281b6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com)
-[<img align="left" alt="soy_unreno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com)
+[<img align="left" alt="Rodo Ren | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com]
+[<img align="left" alt="SoyUn_Reno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com]
+[<img align="left" alt="rodolfo-rendón-rosas-7b34281b6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com]
+[<img align="left" alt="soy_unreno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com]
 
 ### Data Visualization:
 
-[<img align="left" alt="_random_viz_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://www.instagram.com)
+[<img align="left" alt="_random_viz_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com]
 
 <br />
 

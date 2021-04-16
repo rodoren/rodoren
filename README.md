@@ -35,7 +35,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodoren)](https://github.com/rodoren/github-readme-stats)
+### GitHub Stats
+<img align="left" alt="rodoren GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rodoren&show_icons=true&hide_border=true" />
 <br />
 
 [youtube]: https://www.youtube.com/channel/UCr4W1k9DfSOVuuz6965_eMg

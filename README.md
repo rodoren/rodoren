@@ -41,6 +41,7 @@
 <img align="left" alt="rodoren GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rodoren&show_icons=true&hide_border=true&theme=onedark&hide=stars,prs,issues" />
 
 <br />
+<br />
 
 ## Top Programming Languages
 

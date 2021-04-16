@@ -6,14 +6,14 @@
 
 ### My Social Networks:
 
-[<img align="left" alt="Rodo Ren | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com]
-[<img align="left" alt="SoyUn_Reno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com]
-[<img align="left" alt="rodolfo-rendón-rosas-7b34281b6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com]
-[<img align="left" alt="soy_unreno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com]
+[<img align="left" alt="Rodo Ren | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SoyUn_Reno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rodolfo Rendon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="soy_unreno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Data Visualization:
 
-[<img align="left" alt="_random_viz_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com]
+[<img align="left" alt="_random_viz_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram_1]
 
 <br />
 
@@ -35,3 +35,9 @@
 
 <br />
 <br />
+
+[youtube]: https://www.youtube.com/channel/UCr4W1k9DfSOVuuz6965_eMg
+[twitter]: https://twitter.com/SoyUn_Reno
+[linkedin]: https://www.linkedin.com/in/rodolfo-rend%C3%B3n-rosas-7b34281b6/
+[instagram]: https://www.instagram.com/soy_unreno
+[instagram_1]: https://www.instagram.com/_random_viz_

@@ -44,7 +44,7 @@
 
 ### Top Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodoren&layout=compact&theme = onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodoren&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 [youtube]: https://www.youtube.com/channel/UCr4W1k9DfSOVuuz6965_eMg

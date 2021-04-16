@@ -47,6 +47,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodoren&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+<br />
+
 [youtube]: https://www.youtube.com/channel/UCr4W1k9DfSOVuuz6965_eMg
 [twitter]: https://twitter.com/SoyUn_Reno
 [linkedin]: https://www.linkedin.com/in/rodolfo-rend%C3%B3n-rosas-7b34281b6/

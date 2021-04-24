@@ -16,6 +16,7 @@
 ### Data Visualization:
 
 [<img align="left" alt="_random_viz_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram_1]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github_data]
 
 <br />
 
@@ -62,5 +63,4 @@
 [mysql]: https://www.mysql.com/
 [git]: https://git-scm.com/downloads
 [github]: https://github.com/
-[orange]: https://orangedatamining.com/
-[spss]: https://www.ibm.com/mx-es/analytics/spss-statistics-software
+[github_data]: https://github.com/rodoren/Data-Visualization
